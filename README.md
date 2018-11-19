@@ -1,18 +1,15 @@
-# VimNavigation
+# RealVimNavigation
 [fman](https://fman.io) plugin for vim key style navigation.
 
 ## Usage
- * `shift+h` goes up a directory.
- * `shift+l` opens the currently selected directory.
- * `shift+j` moves cursor up one
- * `shift+k` moves cursor down one
- * `shift+d` Move the file to trash
- * `shift+g` Move cursor to bottom
- * `ctrl+g`  Move cursor to the top
+ * `h` goes up a directory.
+ * `l` opens the currently selected directory.
+ * `j` moves cursor up one
+ * `k` moves cursor down one
+ * `d` Move the file to trash
 
-I set it up using shift and the letter so that I can still type out names of files/directories and the cursor will move to them. A little less convient, but not too bad.
 
-This is a modified version of ArrowNavigation plugin for fman.
+This is a modified version of VimNavigation plugin for fman without the `shift` key requirement.
 
 ## Installation
 
