@@ -9,7 +9,8 @@
  * `x` Move the file to trash
 
 
-This is a modified version of VimNavigation plugin for fman without the `shift` key requirement.
+This is a modified version of the [VimNavigation plugin](https://github.com/raguay/VimNavigation)
+for fman without the `shift` key requirement.
 
 ## Installation
 
