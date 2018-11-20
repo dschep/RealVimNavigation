@@ -1,7 +1,8 @@
 [
-    { "keys": ["h"], "command": "go_up" },
-    { "keys": ["l"], "command": "open_if_directory" },
+    { "keys": ["h"], "command": "switch_panes" },
+    { "keys": ["l"], "command": "switch_panes" },
 	{ "keys": ["k"], "command": "move_cursor_up" },
 	{ "keys": ["j"], "command": "move_cursor_down" },
-    { "keys": ["d"], "command": "move_to_trash" }
+    { "keys": ["d"], "command": "move_to_trash" },
+    { "keys": ["x"], "command": "move_to_trash" }
 ]

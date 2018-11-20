@@ -2,11 +2,11 @@
 [fman](https://fman.io) plugin for vim key style navigation.
 
 ## Usage
- * `h` goes up a directory.
- * `l` opens the currently selected directory.
+ * `h` or `l` switches panes
  * `j` moves cursor up one
  * `k` moves cursor down one
  * `d` Move the file to trash
+ * `x` Move the file to trash
 
 
 This is a modified version of VimNavigation plugin for fman without the `shift` key requirement.
